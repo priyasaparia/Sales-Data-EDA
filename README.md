@@ -85,12 +85,5 @@ This notebook analyzes customer purchase behavior and sales trends across variou
 **Piu Saparia**
 [GitHub](https://github.com/priyasaparia)
 
----
 
-### 📄 License
 
-This project is licensed for educational and non-commercial use only.
-
----
-
-Let me know if you'd like this saved and sent as a `.md` file!

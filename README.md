@@ -1,5 +1,3 @@
-# Sales-Data-EDA
-Perfect! Here's your final **`README.md`** content with your GitHub repo link included:
 
 ---
 
